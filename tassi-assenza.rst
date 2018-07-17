@@ -20,9 +20,6 @@ Il dott. Antonio Meola, con decreto del vice sindaco metropolitano n. 206 del 11
 +-----------------------------+---------------------------+----------------------------------+--------------------------+-----------------------+----------+
 
 .. csv-table:: tassi-assenza
-	:file: assenze2018.csv
+	:file: /assenze2018.csv
 
-Travel,,230.00,-230.00
-   Fees,,400.00,-630.00
-   Grant,700.00,,70.00
-   Train Fare,,70.00,**0.00**
+

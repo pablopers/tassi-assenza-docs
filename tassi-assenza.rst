@@ -21,5 +21,7 @@ Il dott. Antonio Meola, con decreto del vice sindaco metropolitano n. 206 del 11
 
 .. csv-table:: tassi-assenza
 	:file: /assenze2018.csv
+	:widths: 30, 70
+	:header-rows: 1
 
 

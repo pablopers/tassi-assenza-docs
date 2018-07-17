@@ -1,8 +1,10 @@
-Tassi di assenza trimestrali
+**Tassi di assenza trimestrali**
+
 Obblighi di pubblicazione concernenti la dotazione organica e il  costo del personale con rapporto di lavoro a tempo indeterminato
 ai sensi dell'art.16, comma 3, del d.lgs.33/2013
 
 La sezione  "Amministrazione trasparente" è in corso di aggiornamento in attuazione delle novità introdotte dal D. Lgs. n. 97 del 2016. Decreto legislativo n.33 /2013 riguardante il "Riordino della disciplina riguardante gli obblighi di pubblicita', trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni". Per poter visualizzare i documenti firmati digitalmente è consigliato utilizzare il servizio fornito da poste italiane raggiungibile QUI . E' inoltre opportuno aggiornare il PDF Reader alla versione più recente. Responsabile della prevenzione della corruzione e Responsabile per la trasparenza dott. Antonio Meola - Segretario Generale.
+
 i recapiti a cui contattarlo sono i seguenti:
 pec: cittametropolitana.na@pec.it
 Email seg.gen@cittametropolitana.na.it 

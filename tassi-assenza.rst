@@ -1,6 +1,8 @@
 **Tassi di assenza trimestrali**
 
-Obblighi di pubblicazione concernenti la dotazione organica e il  costo del personale con rapporto di lavoro a tempo indeterminato
+.. note:: 
+Obblighi di pubblicazione concernenti la dotazione organica e il  costo del personale con rapporto di lavoro a 
+tempo indeterminato
 ai sensi dell'art.16, comma 3, del d.lgs.33/2013
 
 La sezione  "Amministrazione trasparente" è in corso di aggiornamento in attuazione delle novità introdotte dal D. Lgs. n. 97 del 2016. Decreto legislativo n.33 /2013 riguardante il "Riordino della disciplina riguardante gli obblighi di pubblicita', trasparenza e diffusione di informazioni da parte delle pubbliche amministrazioni". 
